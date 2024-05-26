@@ -6,9 +6,11 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
-- matplotlib
-- scipy
+- Python
+- Pandas
+- Matplotlib
+- SciPy
+- Datetime
+- NumPy
 - А/В тестирование
 - проверка статистических гипотез

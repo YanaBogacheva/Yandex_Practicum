@@ -5,10 +5,10 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
-- matplotlib
-- seaborn
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 - предобработка данных
 - исследовательский анализ данных
 - визуализация данных

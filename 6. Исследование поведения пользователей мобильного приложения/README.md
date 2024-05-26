@@ -5,11 +5,15 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
-- matplotlib
-- scipy
-- plotly
+- Python
+- Pandas
+- Matplotlib
+- SciPy
+- Seaborn
+- Plotly
+- Datetime
+- NumPy
+- Math
 - А/В тестирование
 - проверка статистических гипотез
 - событийная аналитика

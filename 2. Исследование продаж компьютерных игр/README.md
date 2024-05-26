@@ -7,10 +7,10 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
-- numpy
-- matplotlib
+- Python
+- Pandas
+- NumPy
+- Matplotlib
 - предобработка данных
 - исследовательский анализ данных
 - описательная статистика

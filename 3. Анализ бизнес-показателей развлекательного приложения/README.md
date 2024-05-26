@@ -5,10 +5,11 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
+- Python
+- Pandas
+- Datetime
 - seaborn
-- matplotlib
+- Matplotlib
 - когортный анализ
 - юнит-экономика
 - продуктовые метрики

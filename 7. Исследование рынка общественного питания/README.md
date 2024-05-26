@@ -5,10 +5,12 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
-- matplotlib
-- seaborn
-- plotly
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- NumPy
 - визуализация данных
 - создание презентации
+
