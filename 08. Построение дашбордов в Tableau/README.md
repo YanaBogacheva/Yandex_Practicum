@@ -18,6 +18,6 @@
 - построение дашбордов
 - визуализация данных
 
-**[Ссылка на дашборд](https://public.tableau.com/views/TED_16999185117790/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
+
 
 **Статус проекта:** завершен.
