@@ -20,4 +20,6 @@
 - построение дашбордов
 - визуализация данных
 
+**[Ссылка на дашборд](https://public.tableau.com/views/-_17099379710300/-_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 **Статус проекта**: завершен
