@@ -18,6 +18,6 @@
 - построение дашбордов
 - визуализация данных
 
-
+**[Ссылка на дашборд](https://public.tableau.com/shared/YP8S2RY94?:display_count=n&:origin=viz_share_link)**
 
 **Статус проекта:** завершен.
