@@ -25,6 +25,6 @@
 - построение дашбордов
 - создание презентации 
 
-
+**[Ссылка на дашборд](https://public.tableau.com/views/_17016372107140/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Статус проекта:** завершен.
